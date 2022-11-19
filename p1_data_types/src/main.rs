@@ -79,5 +79,6 @@ fn main() {
      * full_name = full_name + "is learning";
      * println!("{}", full_name);
      */
+    println!("all in comments above");
 
 }
